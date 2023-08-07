@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "888012758665",
+    "project_id": "lipreadig",
+    "storage_bucket": "lipreadig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888012758665:android:466e688421b2ee3a89b058",
+        "android_client_info": {
+          "package_name": "com.example.lipreading_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888012758665-mrvud9t3ji45nml1ljkcjt54nr539i4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lipreading_app",
+            "certificate_hash": "dd5502efe2d399cf3e49830bbcde4dafe855080c"
+          }
+        },
+        {
+          "client_id": "888012758665-6kjjuvfbts1c88924vfdr39dfm9vqb3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvIcE6XvpnjXE2WHsd5VmIgOuhQfzhsag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888012758665-6kjjuvfbts1c88924vfdr39dfm9vqb3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
